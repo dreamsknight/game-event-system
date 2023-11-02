@@ -1,0 +1,7 @@
+using UnityEngine.Events;
+
+namespace Dream.GameEventSystem.UnityEvents
+{
+    [System.Serializable]
+    public class StringUnityEvent : UnityEvent<string> { }
+}

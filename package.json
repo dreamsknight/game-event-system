@@ -1,0 +1,19 @@
+{
+  "name": "com.dream.gameeventsystem",
+  "version": "1.0.0",
+  "displayName": "Dream Game Event System",
+  "description": "",
+  "unity": "2019.2",
+  "dependencies": {
+ },
+ "keywords": [
+    "tools",
+    "dream",
+    "events"
+  ],
+  "author": {
+    "name": "Ufuk Çağrı Yurtman",
+    "email": "yurtmanufuk@gmail.com",
+    "url": ""
+  }
+}
